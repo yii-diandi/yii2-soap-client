@@ -11,7 +11,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist mongosoft/yii2-soap-client "*"
+composer require --prefer-dist yii-diandi/yii2-soap-client "*"
 ```
 
 or add
